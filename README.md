@@ -1,7 +1,7 @@
 Originally posted to the first [72 hour game development competition](https://github.com/featherless/72hourgdc)
 from July 22, 2003 to July 28, 2003.
 
-[Download the submitted entry](archive/submission.zip).
+[Download the submitted entry](https://github.com/72hourgdc-2003-july/MV-Easter-Island/archive/submission.zip).
 
     Mindless Violence: Easter Island
     72 Hours of Pixelation Entry
